@@ -1,0 +1,5 @@
+/* assets/custom.css */
+.shadow-soft { box-shadow: 0 6px 18px rgba(16,24,40,0.06), 0 2px 4px rgba(16,24,40,0.04); }
+.card { border: 1px solid rgba(0,0,0,0.06); border-radius: 12px; }
+.navbar-brand { font-weight: 700; letter-spacing: .2px; }
+#ecg-graph .xtick text, #ecg-graph .ytick text { font-size: 12px; }

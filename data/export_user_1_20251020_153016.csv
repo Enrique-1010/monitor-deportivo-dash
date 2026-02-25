@@ -1,0 +1,5 @@
+record_id,questionnaire_id,timestamp,fatiga,suenio,rpe,dolor,energia,horas,calidad
+1,general,2025-10-19 10:52:19,6.0,8.0,5.0,,,,
+2,general,2025-10-19 10:52:51,5.0,10.0,6.0,,,,
+3,bienestar,2025-10-19 10:52:51,,,,5.0,4.0,,
+4,sueno,2025-10-19 10:52:51,,,,,,9.0,3.0
